@@ -1,3 +1,3 @@
 # crackmer
 Complementary networks based on CNN and Transformer.  
-Once the paper is accepted, the code will be released as soon as possible!
+The paper we submitted is already in the \b{minor revision stage}, and we are now uploading the model source code！
