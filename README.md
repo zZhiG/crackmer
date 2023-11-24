@@ -3,4 +3,4 @@
 The paper has been accepted by **Automation in Construction**！
 
 The main framework of the proposed network is as follows:
-[]
+![imgae](https://github.com/zZhiG/crackmer/blob/main/network.png)
