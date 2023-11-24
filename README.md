@@ -1,3 +1,3 @@
-# crackmer
-Complementary networks based on CNN and Transformer.  
-The paper we submitted is already in the **minor revision** stage, and we are now uploading the model source code！
+# Dual-path network combining CNN and transformer for pavement crack segmentation 
+
+The paper has been accepted by **Automation in Construction**！
