@@ -55,11 +55,3 @@ class Net(nn.Module):
         mask = self.decoder(out, f1, f2, f3)
 
         return mask
-
-if __name__ == '__main__':
-    x = torch.rand(1, 3, 512, 512).cuda()
-    net = Net().cuda()
-    # print(net)
-    net.load_state_dict(torch.load(r'F:\our_code\upload\weights\example001.pth'))
-    out = net(x)
-    print(out.shape)
