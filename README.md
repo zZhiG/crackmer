@@ -1,11 +1,11 @@
 # Dual-path network combining CNN and transformer for pavement crack segmentation 
 
-The [paper](https://doi.org/10.1016/j.autcon.2023.105217) has been accepted by **Automation in Construction**！ Main framework of the proposed network is as follows:
+Main framework of the proposed network is as follows:
 <div align=center>
 <img src="imgs/network.png" width="400px">
 </div>
 
-We have uploaded a model code implemented using **PyTorch**, which is simple and brief. And we also uploaded the [example weights](weights/example001.pth) trained on the [DeepCrack](https://github.com/yhlleo/DeepCrack) dataset, which can help us better experience the model's performance.
+We have uploaded a model code implemented using **PyTorch**, which is simple and brief. We also uploaded the [example weights](weights/example001.pth) trained on the [DeepCrack](https://github.com/yhlleo/DeepCrack) dataset, which can help us better reproduce the model's performance.
 
 Here are two visual examples:
 
